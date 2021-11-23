@@ -4,7 +4,7 @@
 1. Add to Cargo.toml: 
 ```Toml
     [dependencies]
-    goldenratio = {git = "https://github.com/azavgo/fibonacci"}
+    fibonacci = {git = "https://github.com/azavgo/fibonacci"}
 ```
 2. Calculate a Fibonacci number or a sequence of Fibonacci numbers: 
 ```Rust
