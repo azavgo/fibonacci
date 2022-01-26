@@ -6,4 +6,4 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-goldenratio = {git = "https://github.com/azavgo/goldenratio"}
+goldenratio = {git = "https://github.com/azavgo/goldenratio", branch = "main"}
